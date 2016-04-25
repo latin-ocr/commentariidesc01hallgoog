@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentariidesc01hallgoog_0264.png"; bbox 0 0 2650 4510; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 391 1557 1056 1666">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 391 1557 1056 1666">
+     <span class='ocr_line' id='line_1_1' title="bbox 391 1557 1056 1666; baseline 0.003 -20.04"><span class='ocrx_word' id='word_1_1' title='bbox 391 1561 642 1666; x_wconf 87' lang='lat' dir='ltr'>PRELO</span> <span class='ocrx_word' id='word_1_2' title='bbox 689 1557 1056 1656; x_wconf 83' lang='lat' dir='ltr'>PARATUR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 52 1699 1297 2144">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 52 1699 1257 2144">
+     <span class='ocr_line' id='line_1_2' title="bbox 82 1699 1257 1812; baseline -0.004 -22"><span class='ocrx_word' id='word_1_3' title='bbox 82 1763 84 1768; x_wconf 92' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 253 1699 490 1790; x_wconf 73' lang='grc'>0111111111</span> <span class='ocrx_word' id='word_1_5' title='bbox 506 1700 746 1810; x_wconf 79' lang='grc' dir='ltr'>8111ρω111111</span> <span class='ocrx_word' id='word_1_6' title='bbox 761 1701 944 1788; x_wconf 78' lang='lat' dir='ltr'>Historiae</span> <span class='ocrx_word' id='word_1_7' title='bbox 956 1700 1156 1812; x_wconf 74' lang='lat' dir='ltr'><em>Anglaecanae</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1175 1720 1257 1784; x_wconf 89' lang='lat' dir='ltr'>ter</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 52 1807 1297 2034; baseline -0.012 -18"><span class='ocrx_word' id='word_1_9' title='bbox 52 1931 55 1938; x_wconf 46' lang='lat'><strong><em>¹</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 255 1807 1297 2034; x_wconf 51' lang='grc' dir='ltr'>ὣ111’111111111ᾜ”101111ῧξ.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 202 1909 978 2144; baseline -0.007 -21"><span class='ocrx_word' id='word_1_11' title='bbox 202 1909 319 2122; x_wconf 55' lang='grc'>1111111</span> <span class='ocrx_word' id='word_1_12' title='bbox 332 2033 435 2138; x_wconf 68' lang='lat' dir='ltr'><em>Hali,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 459 2037 510 2120; x_wconf 61' lang='lat' dir='ltr'>A„</span> <span class='ocrx_word' id='word_1_14' title='bbox 524 2037 583 2115; x_wconf 90' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_15' title='bbox 604 2031 709 2120; x_wconf 86' lang='lat' dir='ltr'>Coll,</span> <span class='ocrx_word' id='word_1_16' title='bbox 725 2035 822 2144; x_wconf 83' lang='lat' dir='ltr'>Reg.</span> <span class='ocrx_word' id='word_1_17' title='bbox 837 2031 978 2118; x_wconf 82' lang='lat' dir='ltr'>Socius</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1330 4510">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1330 4510">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1330 4510; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1330 4510; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
